@@ -1,0 +1,2 @@
+# AIMLtask
+pokemon classification model
