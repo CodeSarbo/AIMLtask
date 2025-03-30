@@ -1,2 +1,3 @@
 # AIMLtask
-pokemon classification model
+pokemon classification ML model
+
